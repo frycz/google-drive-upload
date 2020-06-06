@@ -10,6 +10,10 @@ Easily build applications allowing users to upload text to Google Drive as Docs 
 ```
 import GoogleDriveUpload from 'google-drive-upload';
 
+```
+npm i google-drive-upload
+```
+
 GoogleDriveUpload.init({
     apiKey: 'your-api-key',
     clientId: 'your-client-id',
