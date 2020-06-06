@@ -1,6 +1,6 @@
 {
   "name": "google-drive-upload",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easily upload text to Google Drive as Docs file",
   "keywords": [
     "google-drive",

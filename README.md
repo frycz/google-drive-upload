@@ -1,6 +1,15 @@
 # Google Drive Upload
 Easily build applications allowing users to upload text to Google Drive as Docs files.
 
+## Demo
+
+- Go to [https://quicknote-91c7d.firebaseapp.com/](https://quicknote-91c7d.firebaseapp.com/)
+- Login with your Google account
+- Create a note
+- Hover the note and click _upload_ button
+
+## Installation
+
 ```
 npm i google-drive-upload
 ```
