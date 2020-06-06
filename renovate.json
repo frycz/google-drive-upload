@@ -1,8 +1,0 @@
-{
-  "extends": [ "config:base" ],
-  "baseBranches": [ "dev" ],
-  "automerge": true,
-  "automergeType": "branch-push",
-  "rebaseStalePrs": true,
-  "recreateClosed": true
-}

@@ -12,15 +12,11 @@ node_modules
 # Coverage
 coverage
 
-# Types
-flow-typed/*
-
 # Sources, tests and builder files
 builder
 src
 test
 internals
-.flowconfig
 .babelrc
 .eslintignore
 .eslintrc
