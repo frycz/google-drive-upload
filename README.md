@@ -1,6 +1,10 @@
 # Google Drive Upload
 Easily build applications allowing users to upload text to Google Drive as Docs files.
 
+```
+npm i google-drive-upload
+```
+
 ## Example
 
 - Go to [https://console.developers.google.com/apis](https://console.developers.google.com/apis)
@@ -9,10 +13,6 @@ Easily build applications allowing users to upload text to Google Drive as Docs 
 
 ```
 import GoogleDriveUpload from 'google-drive-upload';
-
-```
-npm i google-drive-upload
-```
 
 GoogleDriveUpload.init({
     apiKey: 'your-api-key',
