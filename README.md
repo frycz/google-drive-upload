@@ -1,6 +1,8 @@
 # Google Drive Upload
 Easily build applications allowing users to upload text to Google Drive as Docs files.
 
+![Google Drive upload schema](https://developers.google.com/drive/images/drive-intro.png)
+
 ## Demo
 
 - Go to [https://quicknote-91c7d.firebaseapp.com/](https://quicknote-91c7d.firebaseapp.com/)
