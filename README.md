@@ -30,8 +30,9 @@ GoogleDriveUpload.init({
 
 GoogleDriveUpload.upload({
     title: 'Document title',
-    text: 'Message you want to save no your Google Drive',
-});
+    text: 'Message you want to save on your Google Drive',
+})
+.then(() => alert("Note successfully uploaded!"));
 ```
 
 The user will be asked for permission to access their Google Drive during the first upload.
