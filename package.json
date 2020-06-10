@@ -1,7 +1,7 @@
 {
   "name": "google-drive-upload",
   "version": "1.0.3",
-  "description": "Easily upload text to Google Drive as Docs file",
+  "description": "Easily build applications allowing users to upload text to Google Drive as Docs files",
   "keywords": [
     "google-drive",
     "gapi"
