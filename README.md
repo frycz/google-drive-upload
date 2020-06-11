@@ -8,7 +8,9 @@
 
 Easily build applications allowing users to upload text to Google Drive as Docs files.
 
-![Google Drive upload schema](https://developers.google.com/drive/images/drive-intro.png)
+<p align="center">
+<img src="https://developers.google.com/drive/images/drive-intro.png" width="600">
+</p>
 
 ## Demo
 
