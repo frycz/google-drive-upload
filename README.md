@@ -1,4 +1,11 @@
 # Google Drive Upload
+
+[![GitHub license](https://img.shields.io/github/license/frycz/google-drive-upload.svg)](https://github.com/frycz/google-drive-upload/blob/master/LICENSE.md)
+[![Package Control total downloads](https://img.shields.io/npm/dt/google-drive-upload.svg)](https://www.npmjs.com/package/google-drive-upload)
+![npm](https://img.shields.io/npm/v/google-drive-upload)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/https/frycz.github.io/google-drive-upload.svg)](https://frycz.github.io/google-drive-upload/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg?style=flat)](https://github.com/frycz/google-drive-upload/pulls)
+
 Easily build applications allowing users to upload text to Google Drive as Docs files.
 
 ![Google Drive upload schema](https://developers.google.com/drive/images/drive-intro.png)
