@@ -9,7 +9,7 @@
 Easily build applications allowing users to upload text to Google Drive as Docs files.
 
 <p align="center">
-<img src="https://developers.google.com/drive/images/drive-intro.png" width="600">
+<img src="https://developers.google.com/drive/images/drive-intro.png" width="500">
 </p>
 
 ## Demo
